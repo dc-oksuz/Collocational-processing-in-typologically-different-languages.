@@ -1,1 +1,1 @@
-# Collocational-processing-in-typologically-different-languages.
+# Collocational_processing_in_typologically_different_languages.
